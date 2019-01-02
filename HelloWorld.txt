@@ -3,8 +3,11 @@ class HelloWorld
 	static void welcomeMethod(){
 		System.out.println("helloworld...!!!!");
 	}
+
 	public static void main(String[] args)
 	{
+
 			
+		welcomeMethod();
 	}
 }
