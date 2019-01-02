@@ -1,7 +1,10 @@
 class HelloWorld
 {
+	static void myMethod(){
+		System.out.println("helloworld...!!!!");
+	}
 	public static void main(String[] args)
 	{	
-		System.out.println("helloworld...!!!!");
+		myMethod();	
 	}
 }
